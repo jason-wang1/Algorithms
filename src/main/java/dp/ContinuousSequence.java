@@ -1,6 +1,8 @@
 package dp;
 
 /**
+ * https://leetcode-cn.com/problems/contiguous-sequence-lcci/
+ *
  * 给定一个整数数组，找出总和最大的连续数列，并返回总和
  *
  * 示例：

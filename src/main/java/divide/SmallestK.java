@@ -5,6 +5,8 @@ import java.util.Comparator;
 import java.util.PriorityQueue;
 
 /**
+ * https://leetcode-cn.com/problems/smallest-k-lcci/
+ *
  * 最小K个数
  *
  * 示例：
