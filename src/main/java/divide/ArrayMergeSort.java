@@ -1,10 +1,10 @@
 package divide;
 
 
-public class MergeSort {
+public class ArrayMergeSort {
     public static void main(String[] args) {
         int[] arr = {6, 3, 5, 1, 8, 9, 4, 6};
-        new MergeSort().mergeSort(arr, 0, arr.length-1);
+        new ArrayMergeSort().mergeSort(arr, 0, arr.length-1);
         for (int ele : arr) {
             System.out.println(ele);
         }
