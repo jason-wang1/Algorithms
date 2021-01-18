@@ -33,14 +33,22 @@
 | 题目   | 代码   |
 | ---- | ---- |
 |   [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)   |   [Fibonacci](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/recursive/Fibonacci.java)   |
+|   [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)   |   [PascalTriangle](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/recursive/PascalTriangle.java)   |
 
 
 ## 动态规划
+| 题目   | 代码   |
+| ---- | ---- |
+|   [连续数列](https://leetcode-cn.com/problems/contiguous-sequence-lcci/)   |   [ContinuousSequence](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dp/ContinuousSequence.java)   |
 
 
 ## 链表
 
 ## 栈
+| 题目   | 代码   |
+| ---- | ---- |
+|   [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)   |   [QueueWithStack](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/stack/QueueWithStack.java)   |
+
 
 ## 队列
 
