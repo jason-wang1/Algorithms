@@ -27,6 +27,7 @@
 | ---- | ---- |
 |   数组的归并排序   |   [ArrayMergeSort](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/divide/ArrayMergeSort.java)   |
 |   [数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)   |   [ReversePairs](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/divide/ReversePairs.java)   |
+|   [好数对的数目](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)   |   [SmallestK](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/divide/SmallestK.java)   |
 
 
 ## 递归
