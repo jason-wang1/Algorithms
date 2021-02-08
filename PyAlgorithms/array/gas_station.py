@@ -2,7 +2,7 @@
 class Solution(object):
     def canCompleteCircuit1(self, gas, cost):
         """
-        根据Java版本原始求解方法
+        根据Java版本原始求解方法，时间复杂度O(n^2)
         :type gas: List[int]
         :type cost: List[int]
         :rtype: int
