@@ -31,6 +31,7 @@ class Solution(object):
 
     def canCompleteCircuit(self, gas, cost):
         """
+        优化后解法，时间复杂度为O(n)
         :type gas: List[int]
         :type cost: List[int]
         :rtype: int
