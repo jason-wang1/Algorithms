@@ -105,7 +105,7 @@
 |   [前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)   |   [TopKWords](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/hashmap/TopKWords.java)   |
 
 ## 数组
-| 题目   | 代码   |
-| ---- | ---- |
-|   [加油站](https://leetcode-cn.com/problems/gas-station/)   |   [GasStation](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/array/GasStation.java)   |
+|  题目  |  Java  |  Python  |
+| ---- | ---- | ---- |
+|   [加油站](https://leetcode-cn.com/problems/gas-station/)   |   [GasStation](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/array/GasStation.java)   |   [gas_station](https://github.com/jason-wang1/Algorithms/blob/master/PyAlgorithms/array/gas_station.py)   |
 |   [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)   |   [MatrixSearch](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/array/MatrixSearch.java)   |
