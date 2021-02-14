@@ -92,9 +92,9 @@
 
 
 ## 队列
-| 题目   | 代码   |
-| ---- | ---- |
-|   [队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)   |   [MaxQueue](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/queue/MaxQueue.java)   |
+| 题目   |  Java  |  Python  |
+| ---- | ---- | ---- |
+|   [队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)   |   [MaxQueue](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/queue/MaxQueue.java)   |   [max_queue](https://github.com/jason-wang1/PyAlgorithms/queue/max_queue.py)
 
 ## 二叉树
 
