@@ -2,9 +2,9 @@
 本项目汇总了各类数据结构与算法练习题，题目来自[力扣](https://leetcode-cn.com/problemset/all/)
 
 ## 二分查找
-| 题目   | 代码   |
-| ---- | ---- |
-|   [二分查找](https://leetcode-cn.com/problems/binary-search/)   |   [BinarySearch](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/binarysearch/BinarySearch.java)   |
+|  题目   |  Java  |  Python  |
+| ---- | ---- | ---- |
+|   [二分查找](https://leetcode-cn.com/problems/binary-search/)   |   [BinarySearch](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/binarysearch/BinarySearch.java)   |   [binary_search](https://github.com/jason-wang1/Algorithms/blob/master/PyAlgorithms/binarysearch/binary_search.py)   |
 |   [有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/)   |   [SmallerNum](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/binarysearch/SmallerNum.java)   |
 |   [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)   |   [RotatedSortedArray](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/binarysearch/RotatedSortedArray.java)   |
 
