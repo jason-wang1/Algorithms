@@ -1,5 +1,17 @@
-.idea/
+.idea
 target/
 Algorithms.iml
+src/main/main.iml
 PyAlgorithms/PyAlgorithms.iml
-PyAlgorithms/.idea/
+PyAlgorithms/.idea
+CppAlgorithms/cmake-build-debug
+CppAlgorithms/.idea
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
