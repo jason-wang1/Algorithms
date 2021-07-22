@@ -4,3 +4,4 @@ project(CppAlgorithms)
 set(CMAKE_CXX_STANDARD 11)
 
 add_executable(binarysearch binarysearch/BinarySearch.cpp)
+add_executable(recursive recursive/Fibonacci.cpp)

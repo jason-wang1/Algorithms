@@ -14,24 +14,28 @@ using std::vector;
  * 解释: 9 出现在 nums 中并且下标为 4
  */
 
-int binary_sort(vector<int>& nums, int target) {
-    auto left = nums.begin();
-    auto right = nums.end();
-    while (left <= right){
-        auto mid = left + (right - left) / 2;
-        if (*mid < target)
-            left = mid + 1;
-        else if (*mid > target)
-            right = mid -1;
-        else
-            return mid - nums.begin();
+class BinarySearch {
+public:
+    int search(vector<int>& nums, int target) {
+        auto left = nums.begin();
+        auto right = nums.end();
+        while (left <= right){
+            auto mid = left + (right - left) / 2;
+            if (*mid < target)
+                left = mid + 1;
+            else if (*mid > target)
+                right = mid -1;
+            else
+                return mid - nums.begin();
+        }
+        return -1;
     }
-    return -1;
-}
+};
 
 int main() {
+    BinarySearch s;
     vector<int> nums = {-1, 0, 3, 5, 9, 12};
     int target = 9;
-    int res = binary_sort(nums, target);
+    int res = s.search(nums, target);
     std::cout << res << std::endl;
 }
