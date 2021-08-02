@@ -99,9 +99,9 @@
 ## 二叉树
 
 ## 哈希表
-|  题目  |  Java  |  Python  |
-| ---- | ---- | ---- |
-|   [好数对的数目](https://leetcode-cn.com/problems/number-of-good-pairs/)   |   [GoodPairs](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/hashmap/GoodPairs.java)   |   [good_pairs](https://github.com/jason-wang1/Algorithms/blob/master/PyAlgorithms/hashmap/good_pairs.py)   |
+|  题目  |  Java  |  Python  |  C++  |
+| ---- | ---- | ---- | ---- |
+|   [好数对的数目](https://leetcode-cn.com/problems/number-of-good-pairs/)   |   [GoodPairs](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/hashmap/GoodPairs.java)   |   [good_pairs](https://github.com/jason-wang1/Algorithms/blob/master/PyAlgorithms/hashmap/good_pairs.py)   |   [GoodPairs](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/hashmap/GoodPairs.cpp)   |
 |   [前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)   |   [TopKWords](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/hashmap/TopKWords.java)   |
 
 ## 数组
