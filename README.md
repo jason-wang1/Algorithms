@@ -76,9 +76,9 @@
 |   [朋友圈](https://leetcode-cn.com/problems/friend-circles/)   |   [FriendCircles](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/unionfind/FriendCircles.java)   |
 
 ## 链表
-| 题目   | 代码   |
-| ---- | ---- |
-|   [返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)   |   [KthNode](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/list/KthNode.java)   |
+| 题目   |  Java  |  Python  |  C++  |
+| ---- | ---- | ---- | ---- |
+|   [返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)   |   [KthNode](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/list/KthNode.java)   |   |   [KthNode](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/list/KthNode.java)   |
 |   [旋转链表](https://leetcode-cn.com/problems/rotate-list/)   |   [RotateList](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/list/RotateList.java)   |
 |   [删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)   |   [ListNodeDelete](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/list/ListNodeDelete.java)   |
 |   [链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)   |   [LastKNode](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/list/LastKNode.java)   |
