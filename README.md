@@ -59,7 +59,7 @@
 |  题目   |  Java  |  Python  |  C++  |
 | ---- | ---- | ---- | ---- |
 |   [连续数列](https://leetcode-cn.com/problems/contiguous-sequence-lcci/)   |   [ContinuousSequence](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dp/ContinuousSequence.java)   |   [continuous_sequence](https://github.com/jason-wang1/Algorithms/blob/master/PyAlgorithms/dp/continuous_sequence.py)   |   [ContinuousSequence](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/dp/ContinuousSequence.cpp)   |
-|   [股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)   |   [MaxProfile](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dp/MaxProfile.java)   |
+|   [股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)   |   [MaxProfile](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dp/MaxProfile.java)   |    |   [MaxProfile](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/dp/MaxProfile.cpp)   |
 |   [礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)   |   [MaxValue](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dp/MaxValue.java)   |
 |   [两个子序列的最大点积](https://leetcode-cn.com/problems/max-dot-product-of-two-subsequences/)   |   [MaxDot](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dp/MaxDot.java)   |
 |   [判断子序列](https://leetcode-cn.com/problems/is-subsequence/)   |   [IsSubSequence](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dp/IsSubSequence.java)   |
