@@ -28,9 +28,9 @@
 
 
 ## 回溯
-| 题目   |  Java  |  Python  |
-| ---- | ---- | ---- |
-|   [全排列](https://leetcode-cn.com/problems/permutations/)   |   [Permutations](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/backtracking/Permutations.java)   |   [permutations](https://github.com/jason-wang1/Algorithms/blob/master/PyAlgorithms/backtracking/permutations.py)   |
+| 题目   |  Java  |  Python  |  C++  |
+| ---- | ---- | ---- | ---- |
+|   [全排列](https://leetcode-cn.com/problems/permutations/)   |   [Permutations](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/backtracking/Permutations.java)   |   [permutations](https://github.com/jason-wang1/Algorithms/blob/master/PyAlgorithms/backtracking/permutations.py)   |   [Permutations](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/backtracking/Permutations.cpp)   |
 |   [八皇后](https://leetcode-cn.com/problems/eight-queens-lcci/)   |   [EightQueens](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/backtracking/EightQueens.java)   |
 |   [幂集](https://leetcode-cn.com/problems/power-set-lcci/)   |   [PowerSet](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/backtracking/PowerSet.java)   |
 |   [有重复字符串的排列组合](https://leetcode-cn.com/problems/permutation-ii-lcci/)   |   [Permutation](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/backtracking/Permutation.java)   |
