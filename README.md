@@ -48,7 +48,7 @@
 |  题目   |  Java  |  Python  |  C++  |
 | ---- | ---- | ---- | ---- |
 |   [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)   |   [Fibonacci](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/recursive/Fibonacci.java)   |   [fibonacci](https://github.com/jason-wang1/Algorithms/blob/master/PyAlgorithms/recursive/fibonacci.py)   |   [Fibonacci](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/recursive/Fibonacci.cpp)   |
-|   [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)   |   [PascalTriangle](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/recursive/PascalTriangle.java)   |
+|   [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)   |   [PascalTriangle](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/recursive/PascalTriangle.java)   |   |   [PascalTriangle](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/recursive/PascalTriangle.cpp)   |
 |   [检查平衡性](https://leetcode-cn.com/problems/check-balance-lcci/)   |   [CheckBinary](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/recursive/CheckBinary.java)   |
 |   [树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)   |   [SubTree](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/recursive/SubTree.java)   |
 |   [至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)   |   [LongestSubChars](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/recursive/LongestSubChars.java)   |
