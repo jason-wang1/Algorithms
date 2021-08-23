@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 add_executable(Fibonacci Fibonacci.cpp)
 add_executable(PascalTriangle PascalTriangle.cpp)
+add_executable(CheckBinary CheckBinary.cpp)
