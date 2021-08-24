@@ -84,9 +84,9 @@
 |   [链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)   |   [LastKNode.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/list/LastKNode.java)   |
 
 ## 栈
-| 题目   | Java   |
-| ---- | ---- |
-|   [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)   |   [QueueWithStack.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/stack/QueueWithStack.java)   |
+| 题目   | Java   |   |  C++  |
+| ---- | ---- | ---- | ---- |
+|   [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)   |   [QueueWithStack.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/stack/QueueWithStack.java)   |   |   [QueueWithStack.cpp](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/stack/QueueWithStack.cpp)   |
 |   [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)   |   [TrappingRainWater.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/stack/TrappingRainWater.java)   |
 |   [每日温度](https://leetcode-cn.com/problems/daily-temperatures/)   |   [DailyTemperature.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/stack/DailyTemperature.java)   |
 
