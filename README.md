@@ -10,7 +10,7 @@
 
 
 ## 深度优先搜索
-| 题目   | 代码   |   |  C++  |
+| 题目   | Java   |   |  C++  |
 | ---- | ---- | ---- | ---- |
 |   [二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)   |   [TopkInBinaryTree.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dfs/TopkInBinaryTree.java)   |   |   [TopkInBinaryTree.cpp](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/dfs/TopkInBinaryTree.cpp)   |
 |   [二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/)   |   [DepthOfBinaryTree.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dfs/DepthOfBinaryTree.java)   |
@@ -21,7 +21,7 @@
 
 
 ## 广度优先搜索
-| 题目   | 代码   |
+| 题目   | Java   |
 | ---- | ---- |
 |   [从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)   |   [PrintBinaryTree.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/bfs/PrintBinaryTree.java)   |
 |   [从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)   |   [PrintBinaryTree.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/bfs/PrintBinaryTree.java)   |
@@ -37,7 +37,7 @@
 |   [分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)   |   [PalindromePartition.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/backtracking/PalindromePartition.java)   |
 
 ## 分治
-| 题目   | 代码   |
+| 题目   | Java   |
 | ---- | ---- |
 |   数组的归并排序   |   [ArrayMergeSort.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/divide/ArrayMergeSort.java)   |
 |   [数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)   |   [ReversePairs.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/divide/ReversePairs.java)   |
@@ -60,18 +60,18 @@
 | ---- | ---- | ---- | ---- |
 |   [连续数列](https://leetcode-cn.com/problems/contiguous-sequence-lcci/)   |   [ContinuousSequence.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dp/ContinuousSequence.java)   |   [continuous_sequence.py](https://github.com/jason-wang1/Algorithms/blob/master/PyAlgorithms/dp/continuous_sequence.py)   |   [ContinuousSequence.cpp](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/dp/ContinuousSequence.cpp)   |
 |   [股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)   |   [MaxProfile.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dp/MaxProfile.java)   |    |   [MaxProfile.cpp](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/dp/MaxProfile.cpp)   |
-|   [礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)   |   [MaxValue.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dp/MaxValue.java)   |
+|   [礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)   |   [MaxValue.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dp/MaxValue.java)   |   |   [MaxValue.cpp](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/dp/MaxValue.cpp)   |
 |   [两个子序列的最大点积](https://leetcode-cn.com/problems/max-dot-product-of-two-subsequences/)   |   [MaxDot.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dp/MaxDot.java)   |
 |   [判断子序列](https://leetcode-cn.com/problems/is-subsequence/)   |   [IsSubSequence.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dp/IsSubSequence.java)   |
 |   [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)   |   [BestTime.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dp/BestTime.java)   |
 
 ## 贪心算法
-| 题目   | 代码   |
+| 题目   | Java   |
 | ---- | ---- |
 |   [具有给定数值的最小字符串](https://leetcode-cn.com/problems/smallest-string-with-a-given-numeric-value/)   |   [SmallestString.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/greedy/SmallestString.java)   |
 
 ## 并查集
-| 题目   | 代码   |
+| 题目   | Java   |
 | ---- | ---- |
 |   [朋友圈](https://leetcode-cn.com/problems/friend-circles/)   |   [FriendCircles.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/unionfind/FriendCircles.java)   |
 
@@ -84,7 +84,7 @@
 |   [链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)   |   [LastKNode.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/list/LastKNode.java)   |
 
 ## 栈
-| 题目   | 代码   |
+| 题目   | Java   |
 | ---- | ---- |
 |   [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)   |   [QueueWithStack.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/stack/QueueWithStack.java)   |
 |   [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)   |   [TrappingRainWater.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/stack/TrappingRainWater.java)   |
