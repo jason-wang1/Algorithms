@@ -4,3 +4,4 @@ project(CppAlgorithms)
 set(CMAKE_CXX_STANDARD 11)
 
 add_executable(TopkInBinaryTree TopkInBinaryTree.cpp)
+add_executable(DepthOfBinaryTree DepthOfBinaryTree.cpp)
