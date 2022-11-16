@@ -5,7 +5,7 @@
 |  题目   |  Java  |  Python  |  C++  |
 | ---- | ---- | ---- | ---- |
 |   [二分查找](https://leetcode-cn.com/problems/binary-search/)   |   [BinarySearch.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/binarysearch/BinarySearch.java)   |   [binary_search.py](https://github.com/jason-wang1/Algorithms/blob/master/PyAlgorithms/binarysearch/binary_search.py)   |   [BinarySearch.cpp](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/binarysearch/BinarySearch.cpp)   |
-|   [有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/)   |   [SmallerNum.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/binarysearch/SmallerNum.java)   |
+|   [有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/)   |   [SmallerNum.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/binarysearch/SmallerNum.java)   |   [smaller_num.py](https://github.com/jason-wang1/Algorithms/blob/master/PyAlgorithms/binarysearch/smaller_num.py)   |
 |   [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)   |   [RotatedSortedArray.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/binarysearch/RotatedSortedArray.java)   |
 
 
