@@ -23,7 +23,7 @@
 ## 广度优先搜索
 | 题目   | Java   |  Python  |
 | ---- | ---- | ---- |
-|   [从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)   |   [PrintBinaryTree.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/bfs/PrintBinaryTree.java)   |   [PrintBinaryTree.java](https://github.com/jason-wang1/Algorithms/blob/master/PyAlgorithms/bfs/print_binary_tree.py)   |
+|   [从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)   |   [PrintBinaryTree.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/bfs/PrintBinaryTree.java)   |   [print_binary_tree.py](https://github.com/jason-wang1/Algorithms/blob/master/PyAlgorithms/bfs/print_binary_tree.py)   |
 |   [从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)   |   [LevelTraversalTree.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/bfs/LevelTraversalTree.java)   |
 
 
@@ -32,7 +32,7 @@
 | ---- | ---- | ---- | ---- |
 |   [全排列](https://leetcode-cn.com/problems/permutations/)   |   [Permutations.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/backtracking/Permutations.java)   |   [permutations.py](https://github.com/jason-wang1/Algorithms/blob/master/PyAlgorithms/backtracking/permutations.py)   |   [Permutations.cpp](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/backtracking/Permutations.cpp)   |
 |   [八皇后](https://leetcode-cn.com/problems/eight-queens-lcci/)   |   [EightQueens.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/backtracking/EightQueens.java)   |
-|   [幂集](https://leetcode-cn.com/problems/power-set-lcci/)   |   [PowerSet.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/backtracking/PowerSet.java)   |
+|   [幂集](https://leetcode-cn.com/problems/power-set-lcci/)   |   [PowerSet.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/backtracking/PowerSet.java)   |   [power_set.py](https://github.com/jason-wang1/Algorithms/blob/master/PyAlgorithms/backtracking/power_set.py)   |
 |   [有重复字符串的排列组合](https://leetcode-cn.com/problems/permutation-ii-lcci/)   |   [Permutation.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/backtracking/Permutation.java)   |
 |   [分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)   |   [PalindromePartition.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/backtracking/PalindromePartition.java)   |
 
