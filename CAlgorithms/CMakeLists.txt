@@ -3,4 +3,4 @@ project(CAlgorithms C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(CAlgorithms structure/ListNode.h list/KthNode.c)
+add_executable(CAlgorithms structure/ListNode.h list/KthNode.c list/RotateList.c)
