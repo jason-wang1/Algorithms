@@ -6,6 +6,8 @@ PyAlgorithms/PyAlgorithms.iml
 PyAlgorithms/.idea
 CppAlgorithms/cmake-build-debug
 CppAlgorithms/.idea
+CAlgorithms/cmake-build-debug
+CAlgorithms/.idea
 
 # Package Files #
 *.jar
