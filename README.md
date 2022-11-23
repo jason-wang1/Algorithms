@@ -21,10 +21,11 @@
 
 
 ## 广度优先搜索
-| 题目   | Java   |  Python  |
-| ---- | ---- | ---- |
+| 题目   | Java   |  Python  |  C++  |  C  |
+| ---- | ---- | ---- | ---- | ---- |
 |   [从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)   |   [PrintBinaryTree.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/bfs/PrintBinaryTree.java)   |   [print_binary_tree.py](https://github.com/jason-wang1/Algorithms/blob/master/PyAlgorithms/bfs/print_binary_tree.py)   |
 |   [从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)   |   [LevelTraversalTree.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/bfs/LevelTraversalTree.java)   |
+|   [二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/)   |   |   |   [MinDepth.cpp](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/bfs/MinDepth.cpp)   |   |
 
 
 ## 回溯
