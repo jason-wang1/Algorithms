@@ -98,7 +98,10 @@
 | ---- | ---- | ---- |
 |   [队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)   |   [MaxQueue.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/queue/MaxQueue.java)   |   [max_queue.py](https://github.com/jason-wang1/Algorithms/blob/master/PyAlgorithms/queue/max_queue.py)
 
-## 二叉树
+## 优先队列
+| 题目   | Java   |  Python  |  C++  |
+| ---- | ---- | ---- | ---- |
+|   [最后一块石头的重量](https://leetcode.cn/problems/last-stone-weight/)   |   |   |  [LastStoneWeight.cpp](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/priorityqueue/LastStoneWeight.cpp) |
 
 ## 哈希表
 |  题目  |  Java  |  Python  |  C++  |
