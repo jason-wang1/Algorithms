@@ -102,6 +102,7 @@
 | 题目   | Java   |  Python  |  C++  |
 | ---- | ---- | ---- | ---- |
 |   [最后一块石头的重量](https://leetcode.cn/problems/last-stone-weight/)   |   |   |  [LastStoneWeight.cpp](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/priorityqueue/LastStoneWeight.cpp) |
+|   [数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/)   |   [FindKthLargest.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/priorityqueue/FindKthLargest.java)   |   |
 
 ## 哈希表
 |  题目  |  Java  |  Python  |  C++  |
