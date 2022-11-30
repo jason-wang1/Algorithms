@@ -64,7 +64,7 @@
 |   [礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)   |   [MaxValue.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dp/MaxValue.java)   |   [max_value.py](https://github.com/jason-wang1/Algorithms/blob/master/PyAlgorithms/dp/max_value.py)   |   [MaxValue.cpp](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/dp/MaxValue.cpp)   |
 |   [两个子序列的最大点积](https://leetcode-cn.com/problems/max-dot-product-of-two-subsequences/)   |   [MaxDot.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dp/MaxDot.java)   |   |   [MaxDot.cpp](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/dp/MaxDot.cpp)   |
 |   [判断子序列](https://leetcode-cn.com/problems/is-subsequence/)   |   [IsSubSequence.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dp/IsSubSequence.java)   |
-|   [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)   |   [BestTime.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dp/BestTime.java)   |
+|   [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)   |   [BestTime.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/dp/BestTime.java)   |   |   [BestTime.cpp](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/dp/BestTime.cpp)   |
 
 ## 贪心算法
 | 题目   | Java   |
