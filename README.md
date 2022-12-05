@@ -54,6 +54,7 @@
 |   [树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)   |   [SubTree.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/recursive/SubTree.java)   |
 |   [至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)   |   [LongestSubChars.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/recursive/LongestSubChars.java)   |
 |   [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)   |   [ValidateBinaryTree.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/recursive/ValidateBinaryTree.java)   |
+|   [重建二叉树](https://leetcode.cn/problems/zhong-jian-er-cha-shu-lcof/)   |   |   |   [BuildTree.cpp](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/recursive/BuildTree.cpp)   |
 
 
 ## 动态规划
