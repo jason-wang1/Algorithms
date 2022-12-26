@@ -21,39 +21,36 @@ using namespace std;
  */
 class Solution {
 private:
-    vector<vector<int>> *res;
+    vector<vector<int>> res;
     unordered_set<int> used;
-    vector<int> *path;
+    vector<int> path;
 
-    void backtracking(vector<int>& nums, int depth){
-        if (depth < nums.size()){
-            // 对于当前节点，遍历可走路径
-            for (int num: nums){
-                if (used.find(num) == used.end()){
-                    path->push_back(num);
-                    used.insert(num);
-
-                    // 递归深度搜索
-                    backtracking(nums, depth+1);
-
-                    // 回溯
-                    path->pop_back();
-                    used.erase(num);
-                }
-            }
+    void back(vector<int>& nums, int depth) {
+        if (nums.size() == depth){
+            vector<int> tmp(path);
+            res.push_back(tmp);
         } else {
-            auto *p = new vector<int>(*path);
-            res->push_back(*p);
+            // 对于当前节点，遍历所有路径
+            for (int num: nums) {
+                if (used.find(num) != used.end())
+                    continue;
+
+                path.push_back(num);
+                used.insert(num);
+
+                // 递归搜索
+                back(nums, depth + 1);
+
+                // 回溯
+                path.pop_back();
+                used.erase(num);
+            }
         }
     }
-
 public:
     vector<vector<int>> permute(vector<int>& nums) {
-        res = new vector<vector<int>>;
-        used.clear();
-        path = new vector<int>;
-        backtracking(nums, 0);
-        return *res;
+        back(nums, 0);
+        return res;
     }
 };
 
