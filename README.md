@@ -38,11 +38,12 @@
 |   [分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)   |   [PalindromePartition.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/backtracking/PalindromePartition.java)   |
 
 ## 分治
-| 题目   | Java   |
-| ---- | ---- |
+| 题目   | Java   |  Python  |  C++  |
+| ---- | ---- | ---- | ---- |
 |   数组的归并排序   |   [ArrayMergeSort.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/divide/ArrayMergeSort.java)   |
 |   [数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)   |   [ReversePairs.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/divide/ReversePairs.java)   |
 |   [最小K个数](https://leetcode-cn.com/problems/smallest-k-lcci/)   |   [SmallestK.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/divide/SmallestK.java)   |
+|   [二叉搜索树的后序遍历序列](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)   |    |    |  [VerifyPostorder.cpp](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/divide/VerifyPostorder.cpp)  |
 
 
 ## 递归
