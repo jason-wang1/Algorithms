@@ -86,6 +86,7 @@
 |   [删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)   |   [ListNodeDelete.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/list/ListNodeDelete.java)   |
 |   [链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)   |   [LastKNode.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/list/LastKNode.java)   |
 |   [链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/)   |   [LastKNode.java](https://github.com/jason-wang1/Algorithms/blob/master/src/main/java/list/MiddleNode.java)   |
+|   [合并两个排序的链表](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)   |    |   |   [MergeTwoLists.cpp](https://github.com/jason-wang1/Algorithms/blob/master/CppAlgorithms/list/MergeTwoLists.cpp)   |   |
 
 ## 栈
 | 题目   | Java   |   |  C++  |

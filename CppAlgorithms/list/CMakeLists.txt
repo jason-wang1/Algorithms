@@ -4,4 +4,5 @@ project(CppAlgorithms)
 set(CMAKE_CXX_STANDARD 11)
 
 add_executable(KthNode KthNode.cpp)
+add_executable(MergeTwoLists MergeTwoLists.cpp)
 add_executable(RotateList RotateList.cpp)
